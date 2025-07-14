@@ -45,4 +45,6 @@ Repositorio GitHub: https://github.com/titomon98/seek-clients-microservice
 
 ## Documentación API Swagger
 
-Enlace + /swagger-ui.html
+http://seek-spring-boot-clients-env.eba-rwzbxghe.us-east-2.elasticbeanstalk.com/swagger-ui/index.html
+- Usuario: admin
+- Contraseña: incluida en el correo
